@@ -28,5 +28,5 @@ To create a branch:
 `git checkout -b <branch name>`
 
 Branch names should be of format:
-<Trello Ticket Number>_<Description-Of-Task>
+Trello Ticket Number_Description-Of-Task
 
